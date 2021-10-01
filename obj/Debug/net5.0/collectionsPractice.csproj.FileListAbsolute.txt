@@ -1,0 +1,16 @@
+D:\CodingDojo\C#\fundamentals\collectionsPractice\obj\Debug\net5.0\collectionsPractice.csproj.AssemblyReference.cache
+D:\CodingDojo\C#\fundamentals\collectionsPractice\obj\Debug\net5.0\collectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingDojo\C#\fundamentals\collectionsPractice\obj\Debug\net5.0\collectionsPractice.AssemblyInfoInputs.cache
+D:\CodingDojo\C#\fundamentals\collectionsPractice\obj\Debug\net5.0\collectionsPractice.AssemblyInfo.cs
+D:\CodingDojo\C#\fundamentals\collectionsPractice\obj\Debug\net5.0\collectionsPractice.csproj.CoreCompileInputs.cache
+D:\CodingDojo\C#\fundamentals\collectionsPractice\bin\Debug\net5.0\collectionsPractice.exe
+D:\CodingDojo\C#\fundamentals\collectionsPractice\bin\Debug\net5.0\collectionsPractice.deps.json
+D:\CodingDojo\C#\fundamentals\collectionsPractice\bin\Debug\net5.0\collectionsPractice.runtimeconfig.json
+D:\CodingDojo\C#\fundamentals\collectionsPractice\bin\Debug\net5.0\collectionsPractice.runtimeconfig.dev.json
+D:\CodingDojo\C#\fundamentals\collectionsPractice\bin\Debug\net5.0\collectionsPractice.dll
+D:\CodingDojo\C#\fundamentals\collectionsPractice\bin\Debug\net5.0\ref\collectionsPractice.dll
+D:\CodingDojo\C#\fundamentals\collectionsPractice\bin\Debug\net5.0\collectionsPractice.pdb
+D:\CodingDojo\C#\fundamentals\collectionsPractice\obj\Debug\net5.0\collectionsPractice.dll
+D:\CodingDojo\C#\fundamentals\collectionsPractice\obj\Debug\net5.0\ref\collectionsPractice.dll
+D:\CodingDojo\C#\fundamentals\collectionsPractice\obj\Debug\net5.0\collectionsPractice.pdb
+D:\CodingDojo\C#\fundamentals\collectionsPractice\obj\Debug\net5.0\collectionsPractice.genruntimeconfig.cache
